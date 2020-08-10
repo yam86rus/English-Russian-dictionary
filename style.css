@@ -1,0 +1,19 @@
+button{
+    cursor: pointer;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+#add-word-btn{
+    margin: 10px 0;
+}
+#add-word-btn:hover{
+    border-color:green;
+    color: green;
+}
+.btn-delete:hover{
+    border-color: red;
+    color: red;
+}
